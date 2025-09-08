@@ -4,4 +4,4 @@ idade:22
 altura: 1.50
 cidade: Marabá
 país: Brasil
-cor_de_cabelo: Preto
+cor de cabelo: preto
