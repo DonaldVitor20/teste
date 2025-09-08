@@ -1,2 +1,4 @@
 nome:Donald
 cpf:000.000.000-00
+idade:22
+altura: 1.50
